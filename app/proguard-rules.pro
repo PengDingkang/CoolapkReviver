@@ -1,0 +1,3 @@
+-keep class io.github.fentia.coolapkreviver.ModuleMain { *; }
+-keep class io.github.libxposed.** { *; }
+-dontwarn io.github.libxposed.**

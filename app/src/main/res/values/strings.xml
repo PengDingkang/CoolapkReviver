@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CoolapkReviver</string>
+    <string name="module_desc">让旧版酷安通过服务端版本校验</string>
+</resources>
